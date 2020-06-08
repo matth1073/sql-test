@@ -23,5 +23,3 @@ DROP TABLE IF EXISTS sales.stores;
 
 DROP SCHEMA IF EXISTS sales;
 DROP SCHEMA IF EXISTS production;
-
-print 'hello world'
